@@ -22,7 +22,7 @@ string Profile::viewProfile() {
 	string outputString;
 
 	outputString = "Profile Information";
-	outputString += "\nAge: " + age;
+	outputString += "\nAge: " + to_string(age);
 	outputString += "\nName: " + name;
 	outputString += "\nCity: " + city;
 	outputString += "\nCountry: " + country;

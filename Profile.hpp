@@ -46,6 +46,7 @@ public:
 
 	// Add multiple hobbies
 	// Definition goes here because of variadic template reasons
+	// Uses variadic templates to accept multiple string arguments
 	template <typename First, typename... Rest>
 	void addHobbies(const First& first, const Rest&... rest) {
 		// Validation check against empty strings

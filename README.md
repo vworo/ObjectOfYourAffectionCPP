@@ -4,7 +4,7 @@
 ### Info
 An program showcasing the use of objects.
 
-This was a coding exercise provided by Codeacademy's C++ for Programmers course.
+This was a coding exercise provided by Codecademy's C++ for Programmers course.
 
 
 ### Instructions
